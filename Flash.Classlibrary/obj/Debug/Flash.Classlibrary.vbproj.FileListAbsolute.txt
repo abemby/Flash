@@ -1,0 +1,12 @@
+C:\Users\User1\documents\visual studio 2010\Projects\Flash\Flash.Classlibrary\bin\Debug\Flash.Classlibrary.dll
+C:\Users\User1\documents\visual studio 2010\Projects\Flash\Flash.Classlibrary\bin\Debug\Flash.Classlibrary.pdb
+C:\Users\User1\documents\visual studio 2010\Projects\Flash\Flash.Classlibrary\bin\Debug\Flash.Classlibrary.xml
+C:\Users\User1\documents\visual studio 2010\Projects\Flash\Flash.Classlibrary\bin\Debug\Flash.Interface.dll
+C:\Users\User1\documents\visual studio 2010\Projects\Flash\Flash.Classlibrary\bin\Debug\Flash.Interface.pdb
+C:\Users\User1\documents\visual studio 2010\Projects\Flash\Flash.Classlibrary\bin\Debug\Flash.Interface.xml
+C:\Users\User1\documents\visual studio 2010\Projects\Flash\Flash.Classlibrary\obj\Debug\Flash.Classlibrary.vbprojResolveAssemblyReference.cache
+C:\Users\User1\documents\visual studio 2010\Projects\Flash\Flash.Classlibrary\obj\Debug\Flash.Classlibrary.Resources.resources
+C:\Users\User1\documents\visual studio 2010\Projects\Flash\Flash.Classlibrary\obj\Debug\Flash.Classlibrary.vbproj.GenerateResource.Cache
+C:\Users\User1\documents\visual studio 2010\Projects\Flash\Flash.Classlibrary\obj\Debug\Flash.Classlibrary.dll
+C:\Users\User1\documents\visual studio 2010\Projects\Flash\Flash.Classlibrary\obj\Debug\Flash.Classlibrary.xml
+C:\Users\User1\documents\visual studio 2010\Projects\Flash\Flash.Classlibrary\obj\Debug\Flash.Classlibrary.pdb

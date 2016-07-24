@@ -1,0 +1,16 @@
+C:\Users\User1\documents\visual studio 2010\Projects\Flash.Interface\obj\Debug\Flash.Interface.Resources.resources
+C:\Users\User1\documents\visual studio 2010\Projects\Flash.Interface\obj\Debug\Flash.Interface.vbproj.GenerateResource.Cache
+C:\Users\User1\documents\visual studio 2010\Projects\Flash.Interface\bin\Debug\Flash.Interface.dll
+C:\Users\User1\documents\visual studio 2010\Projects\Flash.Interface\bin\Debug\Flash.Interface.pdb
+C:\Users\User1\documents\visual studio 2010\Projects\Flash.Interface\bin\Debug\Flash.Interface.xml
+C:\Users\User1\documents\visual studio 2010\Projects\Flash.Interface\obj\Debug\Flash.Interface.dll
+C:\Users\User1\documents\visual studio 2010\Projects\Flash.Interface\obj\Debug\Flash.Interface.xml
+C:\Users\User1\documents\visual studio 2010\Projects\Flash.Interface\obj\Debug\Flash.Interface.pdb
+C:\Users\User1\Documents\Visual Studio 2010\Projects\Flash\Flash.Interface\bin\Debug\Flash.Interface.dll
+C:\Users\User1\Documents\Visual Studio 2010\Projects\Flash\Flash.Interface\bin\Debug\Flash.Interface.pdb
+C:\Users\User1\Documents\Visual Studio 2010\Projects\Flash\Flash.Interface\bin\Debug\Flash.Interface.xml
+C:\Users\User1\Documents\Visual Studio 2010\Projects\Flash\Flash.Interface\obj\Debug\Flash.Interface.Resources.resources
+C:\Users\User1\Documents\Visual Studio 2010\Projects\Flash\Flash.Interface\obj\Debug\Flash.Interface.vbproj.GenerateResource.Cache
+C:\Users\User1\Documents\Visual Studio 2010\Projects\Flash\Flash.Interface\obj\Debug\Flash.Interface.dll
+C:\Users\User1\Documents\Visual Studio 2010\Projects\Flash\Flash.Interface\obj\Debug\Flash.Interface.xml
+C:\Users\User1\Documents\Visual Studio 2010\Projects\Flash\Flash.Interface\obj\Debug\Flash.Interface.pdb
